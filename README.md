@@ -4,3 +4,5 @@
 master changes
 local changes
 remote changes
+new code
+Another code
